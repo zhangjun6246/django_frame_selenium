@@ -1,0 +1,8 @@
+backend/api_manage/migrations/
+backend/ui_manage/migrations/
+backend/core/migrations/
+*.log
+banckend/_pycache_/*.pyc
+*.py[cod]
+*.pyc
+.vscode

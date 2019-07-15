@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+PyMySQL = "*"
+django-cors-middleware = "*"
+django-crispy-forms = "*"
+django-filter = "*"
+django-debug-toolbar = "*"
+configparser = "*"
+Django = "==2.0.4"
+mongoengine = "*"
+django-celery = "*"
+atx = "*"
+opencv-contrib-python = "*"
+django-rest-swagger = "*"
+jenkinsapi = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
